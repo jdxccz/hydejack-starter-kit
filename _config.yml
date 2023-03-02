@@ -42,14 +42,14 @@ logo:                  /assets/img/logo.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Xingkai Zheng
+  email:               jdxccz@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Github
     url:               /example/
   - title:             Documentation
     url:               /docs/
