@@ -51,6 +51,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Home
+    url:               /about/
   - title:             Github
     url:               /example/
   - title:             Documentation
@@ -422,4 +424,4 @@ jekyll_compose:
         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
-          url: https://example.com/
+          url: https://example.com/docs/
