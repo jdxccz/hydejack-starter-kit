@@ -51,8 +51,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  # - title:             Github
-  #   url:               /example/
+  - title:             greet
+    url:               /greet/
   # - title:             Documentation
   #   url:               /docs/
   - title:             About me
