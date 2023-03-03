@@ -1,5 +1,5 @@
 ---
-layout: greeting
+layout: about
 title: Hi All!
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
