@@ -8,7 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    This is **Xingkai Zheng**, a **CS Master Student** in **University of California San Diego**.
+    This is **Xingkai Zheng**, a **CS Master Student** in **University of California San Diego**. I Got my B.S. degree of **Information Security** in **Shanghai Jiao Tong University**
+    I am passionate about **Artificial Intelligence** Technologies and their **implements** on **huge distributed systems**. 
 
   # This photo will be used in the about section
   picture:
