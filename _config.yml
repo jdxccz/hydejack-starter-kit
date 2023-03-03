@@ -39,6 +39,8 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
 
+favicon:              /assets/img/icon.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
@@ -67,7 +69,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2023 Xingkai Zheng. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
