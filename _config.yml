@@ -56,7 +56,7 @@ menu:
   - title:             About me
     url:               /about/
   - title:             Projects
-    url:               /project/
+    url:               /projects/
   # - title:             Documentation
   #   url:               /docs/
 
