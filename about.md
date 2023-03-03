@@ -15,6 +15,15 @@ redirect_from:
 
 ### Motto: "Always be a decent man in any indecent time!"
 
+## Resume/CV
+
+In case you want more detail about my works, this is my <div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://drive.google.com/file/d/1NsU85SUgt8BvjIUM5d6m14TqgpfSsWXg/view?usp=sharing">Resume</a></div>.
+
+
+## Contacts
+
+The best way to reach me is via email @jdxccz@gmail.com.
+
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
