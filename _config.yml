@@ -53,6 +53,8 @@ author:
 menu:
   - title:             About me
     url:               /about/
+  - title:             Greeting
+    url:               /greeting/
   - title:             greet
     url:               /Greeting/
   - title:             Github
