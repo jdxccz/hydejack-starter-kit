@@ -143,7 +143,7 @@ If you are using a different service like MailChimp, you can build a custom news
 
 Use the the form below to purchase Hydejack PRO:
 
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
+<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://drive.google.com/file/d/1NsU85SUgt8BvjIUM5d6m14TqgpfSsWXg/view?usp=sharing">Resume</a></div>
 
 
 [blog]: /

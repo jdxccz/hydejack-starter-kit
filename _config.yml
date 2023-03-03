@@ -51,8 +51,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Greeting
-    url:               /greeting/
+  # - title:             Greeting
+  #   url:               /greeting/
   - title:             About me
     url:               /about/
   - title:             Github
