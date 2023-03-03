@@ -51,13 +51,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Home
-    url:               /about/
-  - title:             Github
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
+  # - title:             Github
+  #   url:               /example/
+  # - title:             Documentation
+  #   url:               /docs/
+  - title:             About me
     url:               /about/
 
 # Add links to the footer.
