@@ -11,7 +11,7 @@ redirect_from:
 
 # About me
 
-## "Always be a decent man in any indecent Time!"
+## "Always be a decent man in any indecent time!"
 
 <!--author-->
 
