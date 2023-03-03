@@ -52,9 +52,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             greet
-    url:               /greet/
-  - title:             example
-    url:               /example/
+    url:               /greeting/
+  - title:             Github
+    url:               /github/
   # - title:             Documentation
   #   url:               /docs/
   - title:             About me
