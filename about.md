@@ -17,8 +17,11 @@ redirect_from:
 
 ## Resume/CV
 
-In case you want more detail about my works, this is my <div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://drive.google.com/file/d/1NsU85SUgt8BvjIUM5d6m14TqgpfSsWXg/view?usp=sharing">Resume</a></div>.
+In case you want more detail about my works, this is my <a href="https://drive.google.com/file/d/1NsU85SUgt8BvjIUM5d6m14TqgpfSsWXg/view?usp=sharing">Resume</a>.
 
+## Why I choose to learn Computer Science?
+
+I experience many exciting moments when I finish programming projects, even small ones. It feels like having Harry Potter's wand and being capable of anything when programming. Although debugging can be frustrating at times, once the issue is resolved, the satisfaction is doubled. Overall, the feeling of accomplishment and joy I get from programming is incomparable.
 
 ## Contacts
 

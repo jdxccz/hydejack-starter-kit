@@ -55,8 +55,8 @@ menu:
   #   url:               /greeting/
   - title:             About me
     url:               /about/
-  - title:             Github
-    url:               /github/
+  - title:             Projects
+    url:               /project/
   # - title:             Documentation
   #   url:               /docs/
 
