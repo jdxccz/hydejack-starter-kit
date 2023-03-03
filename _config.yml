@@ -39,7 +39,7 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
 
-favicon:              /assets/img/icon.png
+favicon:              /assets/img/icon-curve.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
