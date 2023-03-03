@@ -13,6 +13,8 @@ redirect_from:
 
 <!--author-->
 
+### Motto: "Always be a decent man in any indecent time!"
+
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
