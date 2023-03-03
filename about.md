@@ -11,8 +11,6 @@ redirect_from:
 
 # About me
 
-## "Always be a decent man in any indecent time!"
-
 <!--author-->
 
 ## Hydejack

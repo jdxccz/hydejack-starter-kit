@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hydejack 9
+title: Hi All!
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
@@ -8,6 +8,8 @@ description: >
   Modernized design, big headlines, and big new features.
 sitemap: false
 ---
+
+### Motto: "Always be a decent man in any indecent time!"
 
 Version 9 is the most complete version of Hydejack yet.
 {:.lead}
