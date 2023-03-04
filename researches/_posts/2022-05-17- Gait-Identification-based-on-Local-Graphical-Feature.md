@@ -23,11 +23,11 @@ In our study, we utilized OpenPose to extract skeleton data from videos and reco
 
 Position, Angle, Track, Swing Local Operators
 
-<div style="display: flex;width: 70%">
-  <img src="/assets/img/researches/op1.jpg;width: 70%" style="flex: 1;">
-  <img src="/assets/img/researches/op2.jpg;width: 70%" style="flex: 1;">
+<div style="display: flex">
+  <img src="/assets/img/researches/op1.jpg;width: 35%" style="flex: 1;">
+  <img src="/assets/img/researches/op2.jpg;width: 35%" style="flex: 1;">
 </div>
-<div style="display: flex;width: 70%">
-  <img src="/assets/img/researches/op1.jpg;width: 70%" style="flex: 1;">
-  <img src="/assets/img/researches/op2.jpg;width: 70%" style="flex: 1;">
+<div style="display: flex">
+  <img src="/assets/img/researches/op1.jpg;width: 35%" style="flex: 1;">
+  <img src="/assets/img/researches/op2.jpg;width: 35%" style="flex: 1;">
 </div>
