@@ -2,14 +2,14 @@
 layout: post
 title: Gait Identification under Surveillance Environment based on Human Skeleton
 image:
-  path: /assets/img/researches/1.png
+  path: /assets/img/researches/gait-cycle.jpg
 description: >
   Using **ST-GCN** network to classify the **human gaits** according to **skeletons**
 sitemap: false
 hide_last_modified: true
 ---
 
-coworker @lixirui142
+co-contributor github @lixirui142 supervised by Ke Xu
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
