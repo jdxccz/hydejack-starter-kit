@@ -23,10 +23,10 @@ In our study, we utilized OpenPose to extract skeleton data from videos and reco
 
 <div style="display: flex;width: 70%">
   <img src="/assets/img/researches/op1.jpg" style="flex: 1;">
-  <figcaption>Position Local Operator</figcaption>
   <img src="/assets/img/researches/op2.jpg" style="flex: 1;">
-  <figcaption>Angle Local Operator</figcaption>
 </div>
+<figcaption>Position Local Operator</figcaption>
+<figcaption>Angle Local Operator</figcaption>
 <div style="display: flex;width: 70%">
   <img src="/assets/img/researches/op1.jpg" style="flex: 1;">
   <img src="/assets/img/researches/op2.jpg" style="flex: 1;">
