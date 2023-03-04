@@ -9,7 +9,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
-co-contributor github **@lixirui142**, supervised by **Ke Xu**
+Co-contributor github **@lixirui142**, Supervised by **Ke Xu**
 
 ## Leading
 

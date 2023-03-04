@@ -9,7 +9,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
-supervised by **Ke Xu**
+Supervised by **Ke Xu**
 
 ## Leading
 
@@ -19,9 +19,15 @@ In real-world scenarios, identifying specific individuals through surveillance c
 
 In our study, we utilized OpenPose to extract skeleton data from videos and reconstructed and adjusted Spatio-Temporal Graph Convolutional Networks to identify gaits. To evaluate the effectiveness of our model, we conducted experiments using the CASIC-B gait database. If you would like to learn more about our approach and findings, please refer to our paper, which is available on Arxiv at the following link: <a href="https://arxiv.org/ftp/arxiv/papers/2111/2111.11720.pdf">https://arxiv.org/ftp/arxiv/papers/2111/2111.11720.pdf</a>.
 
-## Structure
+## Operators
 
-<div style="display: flex;">
+<div style="display: flex;width: 70%">
+  <img src="/assets/img/researches/op1.jpg" style="flex: 1;">
+  <figcaption>Position Local Operator</figcaption>
+  <img src="/assets/img/researches/op2.jpg" style="flex: 1;">
+  <figcaption>Angle Local Operator</figcaption>
+</div>
+<div style="display: flex;width: 70%">
   <img src="/assets/img/researches/op1.jpg" style="flex: 1;">
   <img src="/assets/img/researches/op2.jpg" style="flex: 1;">
 </div>
