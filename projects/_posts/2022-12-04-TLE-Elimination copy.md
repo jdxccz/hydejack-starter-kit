@@ -13,7 +13,7 @@ Teammates github **@huiz97m @20000607-lxc @chenhs1641**   Language: **haskell**
 
 This is a casual game with simple rules that are easy to learn. Players need to clear the board by eliminating tiles of the same type and using various props to achieve a high score. This project is designed for learning functional programming. Github <a href="https://github.com/jdxccz/TLE-Elimination">@here</a>.
 
-## Basic Rules:
+## Basic Rules
 * When the setup is completed, the player can pick a picture from the board and put it into the empty container.
 * The player can only select the picture on the top layer.
 * After the player picks the picture from the board, he could not put it back on the board.
