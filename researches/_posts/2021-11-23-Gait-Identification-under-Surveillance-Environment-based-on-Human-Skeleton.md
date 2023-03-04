@@ -9,7 +9,15 @@ sitemap: false
 hide_last_modified: true
 ---
 
-co-contributor github @lixirui142 supervised by Ke Xu
+co-contributor github **@lixirui142**, supervised by **Ke Xu**
+
+## General
+
+In this work, we using OpenPose to get the skeleton from videos. Then we reconsturcted Spatio-Temporal Graph Convolutional Networks to indentify gaits. We choosed CASIC-B gait database to test our model. To find more details, you can read the <a href="https://arxiv.org/ftp/arxiv/papers/2111/2111.11720.pdf">paper</a> on Arxiv.
+
+## Structure
+
+![767x279](/assets/img/researches/1.png "structure image")
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
