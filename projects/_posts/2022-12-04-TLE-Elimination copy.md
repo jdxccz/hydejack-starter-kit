@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TLE-Elimination
+title: TLE Elimination
 description: >
   Caught by the idea "Yanged", a kind of elimination game, we build a similar game called TLE elimination. (Functional Programming Course Project)
 sitemap: false
