@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Network-Flow-Scanner
+title: Network Flow Scanner
 description: >
   A simple network flow scanner which monitors input and output ip datas.
 sitemap: false
 hide_last_modified: true
 ---
 
-Language: **python**
+Language: **Python**
 
 ## General
 
