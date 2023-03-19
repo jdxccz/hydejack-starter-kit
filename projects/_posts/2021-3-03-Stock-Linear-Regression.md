@@ -7,7 +7,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
-Language: **python**
+Language: **Python**
 
 ## General
 
