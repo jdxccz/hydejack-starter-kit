@@ -4,7 +4,7 @@ title: Surf Store
 description: >
   This is a cloud-based multi-user synchronous storage system, which is divided into meta stores for storing versions and hashes and block stores for storing data. It built the Raft mechanism to ensure fault-tolerant meta store and the Chord mechanism to ensure scalable and distributed block store.
 image:
-  path: /assets/img/projects/surfstore.png
+  path: /assets/img/projects/surfstore-new.png
 sitemap: false
 hide_last_modified: true
 ---
