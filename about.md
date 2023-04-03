@@ -17,7 +17,7 @@ redirect_from:
 
 ## Resume/CV
 
-In case you want more detail about my works, this is my <a href="https://drive.google.com/file/d/1NsU85SUgt8BvjIUM5d6m14TqgpfSsWXg/view?usp=sharing">Resume</a>.
+In case you want more detail about my works, this is my <a href="https://drive.google.com/file/d/1TcrHb47CKAd7ULcd0aixKtFr77J5Elrs/view?usp=share_link">Resume</a>.
 
 ## Why I choose to work on Computer Science?
 
