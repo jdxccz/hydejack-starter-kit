@@ -7,7 +7,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
-Teammates github **@huiz97m @20000607-lxc @chenhs1641**   Language: **haskell**
+Teammates github **@huiz97m @20000607-lxc @chenhs1641**   Language: **Haskell**
 
 ## General
 
